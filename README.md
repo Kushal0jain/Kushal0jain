@@ -43,7 +43,3 @@
 | [health-dashboard](https://github.com/Kushal0jain/health-dashboard) | A dashboard for tracking health metrics | JavaScript |
 | [weather-app](https://github.com/Kushal0jain/weather-app) | Live weather lookup by city | JavaScript |
 | [Banking_Application](https://github.com/Kushal0jain/Banking_Application) | A console banking system | Java |
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal0jain&theme=default&hide_border=true" alt="GitHub streak"/>
-</p>
