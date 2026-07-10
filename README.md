@@ -44,15 +44,6 @@
 | [weather-app](https://github.com/Kushal0jain/weather-app) | Live weather lookup by city | JavaScript |
 | [Banking_Application](https://github.com/Kushal0jain/Banking_Application) | A console banking system | Java |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kushal0jain&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kushal's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal0jain&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal0jain&theme=default&hide_border=true" alt="GitHub streak"/>
 </p>
